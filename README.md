@@ -1,1 +1,4 @@
 # Notes
+ViewController
+EntryViewController
+NoteViewController
